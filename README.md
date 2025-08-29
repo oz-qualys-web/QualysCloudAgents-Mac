@@ -14,4 +14,5 @@ However, the x's in:
 
 Additionally, the x's in: 
 - ServerUri=https://qagpublic.xxx.apps.qualys.xxx/CloudAgent/
+
 ...must be replaced with the correct URL for your platform. The list of platform URLs can be found at: https://www.qualys.com/platform-identification/
