@@ -1,7 +1,7 @@
 # QualysCloudAgents-Mac
 Binaries for Qualys Cloud Agents for Mac
 
-The current binary is only for Macs running on Apple Silicon processors. Installation attempts on Intel-based processors will fail using this binary.
+**The current binary is only for Macs running on Apple Silicon processors.** Installation attempts on Intel-based processors _will fail_ using this binary.
 
 The installation steps can be found at:
 https://docs.qualys.com/en/ca/install-guide/macos/installation/installation_steps.htm
