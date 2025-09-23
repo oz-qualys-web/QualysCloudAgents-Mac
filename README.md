@@ -1,5 +1,5 @@
 # QualysCloudAgents-Mac
-Binaries for Qualys Cloud Agents for Mac
+Binary for Qualys Cloud Agents for Mac: Current version 6.3
 
 **The current binary is only for Macs running on Apple Silicon processors.** Installation attempts on Intel-based processors _will fail_ using this binary.
 
