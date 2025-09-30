@@ -1,7 +1,12 @@
 # QualysCloudAgents-Mac
-Binary for Qualys Cloud Agents for Mac: Current version 6.3
+Binaries for Qualys Cloud Agents for Mac: 
+Current versions
+| Name                         | Version  | Description                          |
+| ---------------------------- | -------- | ------------------------------------ |
+| QualysCloudAgent.Silicon.pkg | 6.0.0.30 | For Silicon architecture (M# series) |
+| QualysCloudAgent.x64.pkg     | 6.1.0.20 | For x64 architecture (Intel-based)   |
 
-**The current binary is only for Macs running on Apple Silicon processors.** Installation attempts on Intel-based processors _will fail_ using this binary.
+**Each binary must be renamed to** QualysCloudAgent.pkg **to run using installation commands.** Installation attempts on mismatched architecture _will fail_ using the wrong binary.
 
 The installation steps can be found at:
 https://docs.qualys.com/en/ca/install-guide/macos/installation/installation_steps.htm
